@@ -1,14 +1,28 @@
+name: BradMcGonigle
+favicon: null
 layout_spectrum: 0.387218
-typography_spectrum: 0.2365257
+typography_spectrum: 0.78923
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8340493
-  brandStrength: 0.8662727
-  lightness: 0.8501611
   brandColors:
     - '#300D04'
     - '#89BCF0'
     - '#FABC88'
     - '#F2FAFF'
     - '#77775C'
+  brandStrength: 0.8662727
+  lightness: 0.8501611
+  saturation: 0.8340493
   rhythmicContrast: 0.6288937
-name: BradMcGonigle
+purpose: []
