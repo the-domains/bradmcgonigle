@@ -1,7 +1,7 @@
 name: BradMcGonigle
 favicon: null
-layout_spectrum: 0.387218
-typography_spectrum: 0.78923
+layout_spectrum: 0.47985
+typography_spectrum: 0.82892
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FABC88'
     - '#F2FAFF'
     - '#77775C'
-  brandStrength: 0.8662727
-  lightness: 0.8501611
-  saturation: 0.8340493
-  rhythmicContrast: 0.6288937
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
