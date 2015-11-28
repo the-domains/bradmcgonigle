@@ -1,0 +1,14 @@
+layout_spectrum: 0.387218
+typography_spectrum: 0.2365257
+color:
+  saturation: 0.8340493
+  brandStrength: 0.8662727
+  lightness: 0.8501611
+  brandColors:
+    - '#300D04'
+    - '#89BCF0'
+    - '#FABC88'
+    - '#F2FAFF'
+    - '#77775C'
+  rhythmicContrast: 0.6288937
+name: BradMcGonigle
