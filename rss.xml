@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BradMcGonigle]]></title>
+        <description><![CDATA[BradMcGonigle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 28 Nov 2015 20:07:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grid.io Beta Access]]></title>
+            <description><![CDATA[<article><h1>Grid.io Beta Access</h1><p>Finally got access to the Grid.io beta today.  We'll see how this goes and if it can live up to the hype.</p></article>]]></description>
+            <link>undefinedgridio-beta-access/index.html</link>
+            <guid isPermaLink="false">f964434e-20ff-46b7-91f9-6feead2ca14d</guid>
+            <pubDate>Sat, 28 Nov 2015 20:07:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
