@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BradMcGonigle]]></title>
         <description><![CDATA[BradMcGonigle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bradmcgonigle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 20:07:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 23:00:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bradmcgonigle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One language to rule them all. ]]></title>
+            <description><![CDATA[<article><h1>One language to rule them all. </h1><p>Perfect will simplify your coding by using Swift for all of your server-side and client-side apps.</p><img src="https://www.perfect.org/images/perfect-logo.png"></article>]]></description>
+            <link>http://perfect.org/</link>
+            <guid isPermaLink="false">e2342c3c-5312-4070-a0e4-6a731fce4a04</guid>
+            <pubDate>Mon, 30 Nov 2015 23:00:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Grid.io Beta Access]]></title>
             <description><![CDATA[<article><h1>Grid.io Beta Access</h1><p>Finally got access to the Grid.io beta today.  We'll see how this goes and if it can live up to the hype.</p></article>]]></description>
-            <link>undefinedgridio-beta-access/index.html</link>
+            <link>https://thegrid.ai/bradmcgonigle/gridio-beta-access/index.html</link>
             <guid isPermaLink="false">f964434e-20ff-46b7-91f9-6feead2ca14d</guid>
             <pubDate>Sat, 28 Nov 2015 20:07:02 GMT</pubDate>
         </item>
